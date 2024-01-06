@@ -1,0 +1,7 @@
+*~
+INCA_libs
+*.log
+ida.db
+.simvision
+*.key
+*#
